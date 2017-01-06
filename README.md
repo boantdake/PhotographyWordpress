@@ -1,1 +1,1 @@
-# PhotographyWordpress
+This is a fully functional Wordpress V4.7 theme. It was built going by Wordpress Documentation in which the posts are treated like new photos the author wants to post to their site. It is effective and can be easily manipulated via the CSS that is in the theme folder adding to the customization options available. Let me know what ya think.
